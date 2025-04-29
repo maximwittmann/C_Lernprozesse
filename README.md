@@ -2,7 +2,7 @@
 
 ## 📝 Projektbeschreibung
 Dieses Repository enthält eine Sammlung von Übungsaufgaben und Lösungen in C.  
-Der Fokus liegt auf grundlegenden C-Konzepten wie Arrays, Funktionen und Kontrollstrukturen. :contentReference[oaicite:0]{index=0}
+Der Fokus liegt auf grundlegenden C-Konzepten wie Arrays, Funktionen und Kontrollstrukturen.
 
 ## 🚀 Features
 - Zahlreiche Übungsaufgaben (z. B. Pythagoras, Zufallszahlen, Brutto-Netto-Berechnung)  
