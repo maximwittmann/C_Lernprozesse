@@ -1,4 +1,4 @@
-#📖 C_Lernprozesse
+# 📖C_Lernprozesse
 
 ## 📝 Projektbeschreibung
 Dieses Repository enthält eine Sammlung von Übungsaufgaben und Lösungen in C.  
